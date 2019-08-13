@@ -1,0 +1,5 @@
+---
+title: "Projects"
+---
+
+Please see [our GitHub Organization](https://github.com/baumer-lab) for more information about our projects. 

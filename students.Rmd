@@ -2,6 +2,7 @@
 title: "Students"
 ---
 
-- Audrey Bertin '20
-- Natalia Iannucci '21
-- Rose Porta '22
+- Sophia Tannir '20
+- Audrey Bertin '21
+- Natalia Iannucci '22
+- Rose Porta '23
